@@ -19,3 +19,10 @@
 ### Lern notificatins in Hyperland
 
 
+# Audio $ Micro
+```bash
+yay -S noisetorch
+sudo pacman install pavucontrol
+
+```
+
